@@ -1,0 +1,30 @@
+# Development files
+src/
+tests/
+docs/
+.github/
+.travis.yml
+.eslintrc
+tsconfig.json
+jest.config.js
+*.test.ts
+*.spec.ts
+tsconfig.json
+bun.lockb
+
+# Build tools
+webpack.config.js
+rollup.config.js
+babel.config.js
+
+# Git files
+.gitignore
+.git
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and debug
+*.log
+coverage/
